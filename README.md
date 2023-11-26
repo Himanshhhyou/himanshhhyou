@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Himanshu Kushwaha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi👋 I'm Himanshu Kushwaha</h1>
+<h3 align="center">A Passionate Frontend Developer From India</h3>
 
 - 🔭 I’m currently working on **Web applications**
 
@@ -8,7 +8,9 @@
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> GitHub @himanshhhyou
+</p>
+<p align="left"> Linkedin @himanshhhyou
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
