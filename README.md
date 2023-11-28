@@ -12,8 +12,7 @@
 - 🌱 I’m currently learning **PHP, SQL**
 
 - ⚡ Fun fact **I think I am Funny**
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![GitHub Streak](https://streak-stats.demolab.com/?himanshhhyou=DenverCoder1)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> GitHub @himanshhhyou
