@@ -1,4 +1,4 @@
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=himanshhhyou%2Fhimanshhhyou&countColor=%23263759)](https://visitorbadge.io/status?path=himanshhhyou%2Fhimanshhhyou)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=himanshhhyou/himanshhhyou" align="right">
 <h1 align="center">Hi👋 I'm Himanshu Kushwaha</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
