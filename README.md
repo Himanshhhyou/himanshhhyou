@@ -21,7 +21,8 @@
 
  **I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more! :)** <br>
  [![Linkedin Badge](https://img.shields.io/badge/-himanshhhyou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshhhyou/)](https://www.linkedin.com/in/anirudhemmadi/)
-[![Instagram Badge](https://img.shields.io/badge/-himanshhhyou-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/himanshhhyou/)](https://instagram.com/kanna6501)
+[![Instagram Badge](https://img.shields.io/badge/-himanshhhyou-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/himanshhhyou/)](https://instagram.com/himanshhhyou)
+
 [![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/himanshhhyou)](https://www.youtube.com/c/koolkanna)
 
 [![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto: himanshukushwaha548@gmail.com)](mailto: himanshukushwaha548@gmail.com)
