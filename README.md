@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 
  **I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more! :)** <br>
- [![Linkedin Badge](https://img.shields.io/badge/-himanshhhyou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshhhyou/)](https://www.linkedin.com/in/himanshhhyou/)
+ [![Linkedin Badge](https://img.shields.io/badge/-himanshhhyou-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himanshu-kushwaha-98506b199)](https://www.linkedin.com/in/himanshu-kushwaha-98506b199)
 [![Instagram Badge](https://img.shields.io/badge/-himanshhhyou-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/himanshhhyou/)](https://instagram.com/himanshhhyou)
 
 [![Youtube Badge](https://img.shields.io/badge/-himanshhhyou?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/himanshhhyou)](https://www.youtube.com/c/himanshhhyou)
