@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think I am Funny**
 
-  # 🖱️Actions
+  ## 🖱️Actions
 [![GitHub Streak](https://streak-stats.demolab.com/?user=himanshhhyou)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
