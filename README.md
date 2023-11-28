@@ -11,9 +11,11 @@
 
 - 🌱 I’m currently learning **PHP, SQL**
 
+-  🥅 2024 Goals: **Learn more about web3**
+
 - ⚡ Fun fact **I think I am Funny**
   
-- 🥅 2024 Goals: **Learn more about web3**
+
 
 <h2>🖱️Actions</h2>
 
