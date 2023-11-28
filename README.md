@@ -21,9 +21,9 @@
 
  **I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more! :)** <br>
  
-<p align="left">Commit on <a href="https://github.com/Himanshhhyou">github</a>
+<p align="left"><a href="https://github.com/Himanshhhyou">Commit on github</a>
 </p>
-<p align="left"> Connect on<a href="https://www.linkedin.com/in/himanshu-kushwaha-98506b199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">@linkedin</a>
+<p align="left"> href="https://www.linkedin.com/in/himanshu-kushwaha-98506b199?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Connect on linkedin</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
