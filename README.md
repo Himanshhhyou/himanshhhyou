@@ -18,7 +18,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=himanshhhyou)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
+
+ **I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more! :)** <br>
  
 <p align="left"> GitHub @himanshhhyou
 </p>
