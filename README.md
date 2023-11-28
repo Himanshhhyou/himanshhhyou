@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **PHP, SQL**
 
 - ⚡ Fun fact **I think I am Funny**
-[![GitHub Streak](https://streak-stats.demolab.com/?himanshhhyou=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=himanshhhyou)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> GitHub @himanshhhyou
