@@ -7,7 +7,7 @@
 </h1>
 <h3 align="center">A Passionate Frontend Developer From INDIA 🇮🇳</h3>
 
-- 🔭 I’m currently working on **Web applications**
+- 🔭 I’m currently working on **Learnangle**
 
 - 🌱 I’m currently learning **PHP, SQL**
 
