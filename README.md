@@ -21,9 +21,9 @@
 
  **I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more! :)** <br>
  
-<p align="left"> GitHub <a href="https://github.com/Himanshhhyou">himanshhhyou</a>
+<p align="left"> GitHub <a href="https://github.com/Himanshhhyou">@himanshhhyou</a>
 </p>
-<p align="left"> Linkedin @himanshhhyou
+<p align="left"> Linkedin <a href="https://linkedin.com/Himanshhhyou">@himanshhhyou</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
