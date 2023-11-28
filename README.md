@@ -1,3 +1,4 @@
+viewof x = Inputs.range([0, 100])
 <img src="https://visitor-badge.laobi.icu/badge?page_id=himanshhhyou.himanshhhyou" align="right">
 
 <h1 align="center">
