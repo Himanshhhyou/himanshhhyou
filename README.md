@@ -1,6 +1,9 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=himanshhhyou.himanshhhyou" align="right">
-<h1 align="center">Hi👋 I'm Himanshu Kushwaha</h1>
-<h3 align="center">A Passionate Frontend Developer From India</h3>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=himanshhhyou.himanshhhyou" align="right"/>
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Himanshu+Kushwaha;"/>
+    </a>
+<h1>
 
 - 🔭 I’m currently working on **Web applications**
 
