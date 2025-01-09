@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **PHP, SQL**
 
--  🥅 2024 Goals **Learn more about web3**
+-  🥅 2025 Goals **Learn more about Designing and Coding**
 
 -  📖 Ask me about **HTML, CSS, JavaScript, PHP, Python, C/C++, Arduino, SQL, Linux, Termux, Canva**
 
